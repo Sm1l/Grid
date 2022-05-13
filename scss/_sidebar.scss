@@ -1,0 +1,21 @@
+.sidebar {
+  background-color: rgb(147, 243, 181);
+  padding: 30px;
+
+  &__menu {
+  }
+
+  &__list {
+  }
+
+  &__list li {
+    margin-bottom: 15px;
+  }
+
+  &__link {
+    font-size: 30px;
+    line-height: 1.3;
+    color: rgb(5, 117, 70);
+    font-weight: 700;
+  }
+}
